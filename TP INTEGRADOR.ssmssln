@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{444A9058-7DC0-4514-A589-7BF32417C68F}"
+	ProjectSection(SolutionItems) = preProject
+		Caratula.sql = Caratula.sql
+		Script_creacion_objetos.sql = Script_creacion_objetos.sql
+		Script_testing.sql = Script_testing.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AA54BB5-A206-4DF7-AD6D-152FFC52EA94}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F576C917-6EF2-4B70-A93C-639D2EB91430}
+	EndGlobalSection
+EndGlobal
